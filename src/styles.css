@@ -1,5 +1,11 @@
 body {
-  background-color: blanchedalmond;
+  background: radial-gradient(
+    534px at 7.8% 17.6%,
+    rgb(254, 253, 112) 1.7%,
+    rgb(248, 143, 111) 91.8%
+  );
+  margin: 60px auto;
+  max-width: 1000px;
 }
 h1 {
   text-align: center;
